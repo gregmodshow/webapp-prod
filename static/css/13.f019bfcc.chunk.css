@@ -1,0 +1,2 @@
+.LoaderButton .spinning.glyphicon{margin-right:7px;top:2px;-webkit-animation:spin 1s linear infinite;animation:spin 1s linear infinite}@-webkit-keyframes spin{0%{-webkit-transform:scale(1) rotate(0deg);transform:scale(1) rotate(0deg)}to{-webkit-transform:scale(1) rotate(1turn);transform:scale(1) rotate(1turn)}}@keyframes spin{0%{-webkit-transform:scale(1) rotate(0deg);transform:scale(1) rotate(0deg)}to{-webkit-transform:scale(1) rotate(1turn);transform:scale(1) rotate(1turn)}}
+/*# sourceMappingURL=13.f019bfcc.chunk.css.map */
